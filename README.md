@@ -1,8 +1,7 @@
 # Qaboard
 
 This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
-
+This app does not work as expected because CLI and Firebase functionality is not correctly configured. It was submitted for preliminary review at a required time. It will be completed in the near future.
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
