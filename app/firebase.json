@@ -1,0 +1,9 @@
+{
+  "firebase": "radiant-torch-3830",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    ".*",
+    "**/node_modules/**"
+  ]
+}
