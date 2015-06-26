@@ -5,7 +5,7 @@ var Router = Ember.Router.extend({
   location: config.locationType
 });
 
-QABoard.Router.map(function() {
+Router.map(function() {
   this.resource('questions', {path: '/'}, function() {
     this.resource('new-question');
   });

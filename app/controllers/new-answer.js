@@ -1,4 +1,6 @@
-QABoard.NewAnswerController = Ember.ObjectController.extend({
+import Ember from 'ember';
+
+export default Ember.ObjectController.extend({
   actions: {
     save: function() {
       var answer = this.get('model');

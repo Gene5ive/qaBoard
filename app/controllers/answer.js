@@ -1,4 +1,8 @@
-QABoard.AnswerController = Ember.ObjectController.extend({
+import ember from 'ember';
+
+
+
+export default Ember.ObjectController.extend({
   actions: {
     delete: function() {
       if (confirm('Are you sure?')) {
