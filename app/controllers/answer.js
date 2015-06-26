@@ -1,7 +1,5 @@
 import ember from 'ember';
 
-
-
 export default Ember.ObjectController.extend({
   actions: {
     delete: function() {
